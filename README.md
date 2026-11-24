@@ -7,7 +7,7 @@ Proyek ini mengimplementasikan **Q-Learning tabular** pada masalah kurir yang ha
 lalu mengantarkannya di grid kota 5×5. Lingkungan dibangun sendiri dengan Python murni (tanpa Gymnasium),
 lalu dianalisis dari sisi kurva pembelajaran, kebijakan yang dipelajari, dan pengaruh *discount factor* (γ).
 
-[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](`https://colab.research.google.com/drive/1KfW7r00SOzYcYz68B-QV01ELmiEBT-SE?usp=sharing`)
+[![Buka di Colab](https://colab.research.google.com/drive/1KfW7r00SOzYcYz68B-QV01ELmiEBT-SE?usp=sharing)]
 
 ---
 
